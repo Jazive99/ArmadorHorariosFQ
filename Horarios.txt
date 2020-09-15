@@ -1,0 +1,43 @@
+El número de asignaturas es 4.
+La asignatura con clave 5792 tiene 10 grupos.
+El grupo 1 tiene clase los días Viernes de 1430 a 1830 
+El grupo 2 tiene clase los días Sábado de 1130 a 1530 
+El grupo 3 tiene clase los días Jueves de 930 a 1330 
+El grupo 4 tiene clase los días Sábado de 1300 a 1700 
+El grupo 5 tiene clase los días Miércoles de 1300 a 1700 
+El grupo 6 tiene clase los días Miércoles de 1030 a 1430 
+El grupo 7 tiene clase los días Sábado de 1500 a 1900 
+El grupo 8 tiene clase los días Lunes de 1600 a 2000 
+El grupo 9 tiene clase los días Martes de 1500 a 1900 
+El grupo 10 tiene clase los días Sábado de 1500 a 1900 
+La asignatura con clave 9182 tiene 12 grupos.
+El grupo 1 tiene clase los días Lunes,Martes,Viernes de 1630 a 1730 
+El grupo 2 tiene clase los días Martes,Sábado,Jueves de 1800 a 1900 
+El grupo 3 tiene clase los días Lunes,Viernes de 1530 a 1630 
+El grupo 4 tiene clase los días Jueves,Lunes de 1100 a 1200 
+El grupo 5 tiene clase los días Sábado,Jueves,Miércoles de 1530 a 1630 
+El grupo 6 tiene clase los días Viernes,Miércoles de 1730 a 1830 
+El grupo 7 tiene clase los días Jueves,Viernes,Miércoles de 1200 a 1300 
+El grupo 8 tiene clase los días Martes,Jueves,Miércoles de 730 a 830 
+El grupo 9 tiene clase los días Viernes,Jueves de 1500 a 1600 
+El grupo 10 tiene clase los días Viernes,Lunes,Miércoles de 1400 a 1500 
+El grupo 11 tiene clase los días Miércoles,Jueves,Sábado de 930 a 1030 
+El grupo 12 tiene clase los días Martes,Jueves de 830 a 930 
+La asignatura con clave 7004 tiene 6 grupos.
+El grupo 1 tiene clase los días Jueves de 1500 a 1900 
+El grupo 2 tiene clase los días Jueves de 1230 a 1630 
+El grupo 3 tiene clase los días Lunes de 1230 a 1630 
+El grupo 4 tiene clase los días Jueves de 700 a 1100 
+El grupo 5 tiene clase los días Jueves de 1000 a 1400 
+El grupo 6 tiene clase los días Martes de 1000 a 1400 
+La asignatura con clave 2467 tiene 10 grupos.
+El grupo 1 tiene clase los días Miércoles de 1100 a 1500 
+El grupo 2 tiene clase los días Lunes de 1530 a 1930 
+El grupo 3 tiene clase los días Lunes de 1200 a 1600 
+El grupo 4 tiene clase los días Jueves de 1600 a 2000 
+El grupo 5 tiene clase los días Sábado de 1130 a 1530 
+El grupo 6 tiene clase los días Miércoles de 1630 a 2030 
+El grupo 7 tiene clase los días Martes de 800 a 1200 
+El grupo 8 tiene clase los días Viernes de 1600 a 2000 
+El grupo 9 tiene clase los días Lunes de 1100 a 1500 
+El grupo 10 tiene clase los días Martes de 1200 a 1600 
